@@ -1,7 +1,11 @@
 * {
-
 	margin: 0px;
 	padding: 0px;
-	font-family: Comic Sans MS;
+	color: white;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
+
+html {
+	background: black;
 }
